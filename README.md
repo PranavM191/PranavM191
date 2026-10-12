@@ -21,6 +21,8 @@ I'm interested in building reliable backend systems, REST APIs, and database-dri
 
 - GitHub: [@PranavM191](https://github.com/PranavM191)
 
+- Linkedin:[@pranav-misra](https://www.linkedin.com/in/pranav-misra-100097314/)
+
 ---
 
 *Always learning, building, and improving.*
