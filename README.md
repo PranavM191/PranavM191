@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Pranav Misra 👋
 
-<!--
-**PranavM191/PranavM191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Java • Spring Boot • Python
 
-Here are some ideas to get you started:
+I'm interested in building reliable backend systems, REST APIs, and database-driven applications. I enjoy solving problems and learning how to design scalable, maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Python, JavaScript, SQL
+- **Backend:** Spring Boot, Spring MVC, FastAPI, REST APIs
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Maven
+
+### 🚀 Featured Projects
+
+- **[Ripple of Change](https://github.com/PranavM191/ripple-of-change-final)** — Full-stack application with a Spring Boot backend, PostgreSQL, and a Python-based ML service.
+- **[Student Management System](https://github.com/PranavM191/student-management-system)** — Student management application built with Spring Boot, Spring Data JPA, Thymeleaf, and MySQL.
+- **[Product CRUD App](https://github.com/PranavM191/product-crud-app)** — CRUD application demonstrating Java-based web development and database integration.
+
+### 📫 Connect with Me
+
+- GitHub: [@PranavM191](https://github.com/PranavM191)
+
+---
+
+*Always learning, building, and improving.*
